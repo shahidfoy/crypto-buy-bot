@@ -1,0 +1,6 @@
+{
+  "purchases": [
+    { "pair": "BTC/USD", "amount": 10 },
+    { "pair": "ETH/USDT", "amount": 10 }
+  ]
+}
