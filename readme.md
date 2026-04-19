@@ -1,0 +1,1 @@
+automated python script that will buy cryptocurrency everyday using the binance.us api
